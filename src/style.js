@@ -15,3 +15,6 @@ export const Body = styled.div`
   flex: 5;
   border: 2px solid red;
 `;
+export const Menu = styled.div`
+  margin-left: 24px;
+`;
